@@ -1,0 +1,57 @@
+Hiru FM
+http://209.133.216.3:7018/
+
+Lakhanda
+https://cp12.serverse.com/proxy/itnfm/stream
+
+FM Derana
+https://cp12.serverse.com/proxy/fmderana/stream
+
+Neth FM
+http://69.46.24.226:7669/stream
+
+Rangiri Radii
+http://tachyon.shoutca.st:8827/index
+
+Shaa FM
+http://209.133.216.3:7073/stream/
+
+Shakthi FM
+http://live.trusl.com:1160/
+
+Sirasa FM
+http://live.trusl.com:1170/
+
+Siyatha FM
+http://s3.voscast.com:8408/.mp3
+
+Vasantham FM
+https://cp12.serverse.com/proxy/vasanthamfm/stream
+
+YFM
+http://live.trusl.com:1180/
+
+Hela Handa Radio
+http://node-14.zeno.fm/612ysau63k0uv
+
+Kiss FM
+http://198.178.123.8:8404/
+
+Shraddha 
+http://69.46.24.226:7643/
+
+TNL Rocks
+http://live.tnlrn.com:8010/live.mp3
+
+RED FM 99.5 & 99.7 [ENGLISH]
+http://shaincast.caster.fm:47830/listen.mp3
+
+Fox 91.4 FM [ENGLISH]
+http://69.46.24.226:7673/start
+
+Ruu Radio Int [Tamil]
+http://shaincast.caster.fm:47814/listen.mp3
+
+ABC Gold FM 93 FM [Hindi]
+http://209.133.216.3:7048/;
+
